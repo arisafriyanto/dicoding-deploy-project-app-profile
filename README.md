@@ -1,1 +1,1 @@
-Proyek Deploy Aplikasi Profile Dicoding di GCP
+Deployment Project App Profile from Dicoding at Google Cloud Platform
